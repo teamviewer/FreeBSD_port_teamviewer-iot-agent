@@ -1,0 +1,10 @@
+The TeamViewer IoT Agent provides an out-of-the-box secure remote access and file transfer solution for your IoT environment and connected devices.
+The Agent seamlessly integrates with the latest TeamViewer Client, which enables you to remotely access your device.
+The Teamviewer Client can be downloaded at http://www.teamviewer.com/.
+TeamViewer IoT Agent is free for two endpoints.
+More endpoints require a license. For more information, please visit https://www.teamviewer.com/link/?url=597425.
+Use of the TeamViewer IoT Agent must adhere to the end user license agreement. http://www.teamviewer.com/link/?url=653670
+TeamViewer IoT Agent contains Free Software components where it licenses can be found at /usr/share/doc/teamviewer-iot-agent/Third_Party_License.txt
+
+
+WWW: http://www.teamviewer.com/
