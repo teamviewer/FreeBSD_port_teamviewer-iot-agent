@@ -1,0 +1,13 @@
+[
+{ type: install
+  message: <<EOM
+After the installation it is mandatory to accept the EULA/DPA from TeamViewer. Subsequent updates do not require additional approval.
+The EULA / DPA can be read and accepted via "/usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent eula" or can be automatically accepted via "/usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent eula -y".
+The TeamViewer IoT agent will not start when the EULA/DPA was not accepted.
+The device access is gained via an account assignment. Please make sure to start the agent first via "service teamviewer_iot_agent start".
+Afterwards call "/usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent assign --api-token <assignment-token> [--group <groupname> | --alias <preferred name>]".
+The default values for the optional parameters will be IoT for the group and the hostname as alias.
+The assignment-token can be retrieved via the IoT dashboard https://www.teamviewer.com/link/?url=858956
+EOM
+}
+]

@@ -1,0 +1,15 @@
+/usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent
+/usr/local/libexec/teamviewer-iot-agent/TVResource.so
+/etc/defaults/teamviewer-iot-agent.conf
+@sample /etc/teamviewer-iot-agent/agent.conf.sample
+/usr/local/share/doc/teamviewer-iot-agent/description
+/usr/local/share/doc/teamviewer-iot-agent/README_FreeBSD
+/usr/local/share/doc/teamviewer-iot-agent/copyright
+/usr/local/share/doc/teamviewer-iot-agent/Third_Party_License_IoT.txt
+/usr/local/etc/rc.d/teamviewer_iot_agent
+@sample /usr/local/etc/rc.conf.d/teamviewer_iot_agent.sample
+@dir /var/db/teamviewer-iot-agent/.local
+@dir /var/log/teamviewer-iot-agent
+@dir /var/crash/teamviewer-iot-agent
+@dir /etc/teamviewer-iot-agent
+@dir /var/db/teamviewer-iot-agent
