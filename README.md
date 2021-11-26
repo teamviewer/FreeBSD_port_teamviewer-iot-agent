@@ -28,7 +28,7 @@ If the -y parameter is present, the EULA will be automatically accepted.
 
 The last step of the provisioning is the assignment to your TeamViewer account.
 ```
-/usr/local/libexec/teamviewer-iot-agent assign --api-token <assignment-token> --group <group> --alias <alias name>
+/usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent assign --api-token <assignment-token> --group <group> --alias <alias name>
 ```
 If it was successful, it will print out a message displaying the name of the new manager and the group where the device is in.
 If it fails, an error message will be displayed and an exit code other than 0 is returned.
