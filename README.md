@@ -26,6 +26,11 @@ After the installation it is mandatory to accept the licence via
 If the -y parameter is not present the EULA will be displayed and an interactive wizard will guide through the acceptance of the EULA.
 If the -y parameter is present, the EULA will be automatically accepted.
 
+The agent can now be started. Please make sure to start the agent service before you continue to the assignment.
+```
+service teamviewer_iot_agent start
+```
+
 The last step of the provisioning is the assignment to your TeamViewer account.
 ```
 /usr/local/libexec/teamviewer-iot-agent/teamviewer-iot-agent assign --api-token <assignment-token> --group <group> --alias <alias name>
