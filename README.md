@@ -43,3 +43,6 @@ The assignment-token can be retrieved via the [IoT Dashboard](https://www.teamvi
 ## Limitation
 The FreeBSD port is currently only available for x86_64 (amd64) architecture.
 Furthermore, the port is only verified against FreeBSD 12 and 13.
+
+## Further Information
+Further Information can be found on the [IoT documentation](https://www.teamviewer.com/en/iot/documentation/teamviewer-iot-documentation/#iot-agent-on-freebsd) space of TeamViewer.
