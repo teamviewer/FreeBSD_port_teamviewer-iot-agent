@@ -1,7 +1,7 @@
 PORTNAME=teamviewer-iot-agent
-PORTVERSION=2.20.2
+PORTVERSION=2.22.2
 CATEGORIES=net-mgmt
-MASTER_SITES=https://download.teamviewer-iot.com/agents/freebsd/2.20.2/x86_64/
+MASTER_SITES=https://download.teamviewer-iot.com/agents/freebsd/2.22.2/x86_64/
 
 LICENSE=EULA
 LICENSE_NAME=TeamViewer IoT End-User License Agreement http://www.teamviewer.com/link/?url=653670
